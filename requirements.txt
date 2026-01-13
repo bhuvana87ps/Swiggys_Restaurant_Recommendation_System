@@ -1,0 +1,5 @@
+pandas  # Data loading, cleaning, CSV handling
+numpy   # NaN handling, numerical operations
+scikit-learn    # One-Hot Encoding, Cosine Similarity / K-Means
+streamlit   # Web application
+pickle-mixin    # Saving/loading encoder
