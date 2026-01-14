@@ -3,3 +3,5 @@ numpy   # NaN handling, numerical operations
 scikit-learn    # One-Hot Encoding, Cosine Similarity / K-Means
 streamlit   # Web application
 pickle-mixin    # Saving/loading encoder
+matplotlib  # Data Visualization
+seaborn     # Data Visualization 
